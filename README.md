@@ -21,7 +21,7 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 ### Links
 
 - Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/responsive-recipe-page-with-modern-css-no-media-queries-example-link)
-- Live Site URL: [Live demo](https://your-live-demo-url.com)
+- Live Site URL: [Live demo](https://vercel.com/arnes-projects-80d08e24/recipe-page/Cr8H5A3FGqf1GHuvUjXQrx4w8hmD)
 
 ## My process
 
