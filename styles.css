@@ -137,3 +137,22 @@ tr:last-child td {
   font-family: "Outfit", sans-serif;
   text-align: left;
 }
+
+@media (max-width: 600px) {
+  body {
+    padding: 0;
+  }
+
+  .white-box {
+    width: 100vw;
+    max-width: none;
+    border-radius: 0;
+    margin: 0;
+    padding: 24px;
+  }
+
+  .recipe-img {
+    border-radius: 0;
+    margin-bottom: 20px;
+  }
+}
